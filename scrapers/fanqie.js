@@ -88,9 +88,9 @@ async function fetchHotRankList() {
   const pagesNeeded = Math.ceil(TARGET_COUNT / PAGE_SIZE);
   for (let page = 0; page < pagesNeeded; page++) {
     const params = new URLSearchParams({
-      page_count: PAGE_SIZE, page_index: page,
-      gender: -1, category_id: -1, creation_status: -1,
-      word_count: -1, book_type: -1, sort: 0,
+     page_count: PAGE_SIZE, page_index: page,
+      gender: -1, category_id: -1, creation_status: 0,
+      word_count: -1, book_type: -1, sort: 1,
     });
     try {
       const res = await withRetry(
@@ -101,9 +101,19 @@ async function fetchHotRankList() {
         { name: `番茄热榜第${page+1}页`, maxAttempts: 3, baseDelay: 3000 }
       );
       const json = JSON.parse(res.data);
-      if (json.code === 0 && json.data?.book_list) {
-        allBooks.push(...json.data.book_list);
-      }
+     if (json.code === 0 && json.data?.book_list) {
+  const list = json.data.book_list;
+
+  const statusCounts = {};
+  for (const b of list) {
+    const status = b.creation_status ?? 'undefined';
+    statusCounts[status] = (statusCounts[status] || 0) + 1;
+  }
+
+  console.log(`  第${page + 1}页状态统计:`, statusCounts);
+
+  allBooks.push(...list);
+}
     } catch (e) { console.log(`  [WARN] 第${page+1}页失败（重试后）: ${e.message}`); }
     if (page < pagesNeeded - 1) await sleep(REQUEST_DELAY);
   }
