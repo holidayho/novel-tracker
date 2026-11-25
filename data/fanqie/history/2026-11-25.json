@@ -1,0 +1,939 @@
+{
+  "update_time": "2026-11-25 13:52:10",
+  "update_date": "2026-11-25",
+  "total_count": 18,
+  "source": "番茄小说书库·完结作品（按最新排序）",
+  "source_url": "https://fanqienovel.com/library/stat0/page_1?sort=newest",
+  "platform": "fanqie",
+  "platform_name": "番茄小说",
+  "tag_stats": {
+    "都市日常": 1,
+    "历史脑洞": 2,
+    "科幻末世": 1,
+    "女频衍生": 3,
+    "悬疑灵异": 1,
+    "都市脑洞": 1,
+    "历史古代": 1,
+    "现言脑洞": 1,
+    "双男主": 1,
+    "悬疑脑洞": 2,
+    "都市种田": 2,
+    "年代": 1,
+    "游戏体育": 1
+  },
+  "gender_stats": {
+    "未知": 18
+  },
+  "completion_stats": {
+    "基准快照": 18
+  },
+  "crawl_info": {
+    "completed_pages_response_count": 1,
+    "completed_has_more_false": false,
+    "completed_snapshot_complete": false,
+    "ongoing_pages_response_count": 1,
+    "ongoing_has_more_false": false,
+    "ongoing_snapshot_complete": false,
+    "status_snapshot_updated": false
+  },
+  "books": [
+    {
+      "rank": 1,
+      "book_id": "7550574422923414590",
+      "book_name": "异功",
+      "author": "麻二",
+      "gender": "未知",
+      "primary_tag": "都市日常",
+      "secondary_tags": [
+        "都市"
+      ],
+      "all_tags": [
+        "都市日常",
+        "都市"
+      ],
+      "official_tags": [
+        "都市日常",
+        "都市"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795584242",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2obefc6ec55aa81fe336c6d3e95bc2836e~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672387&x-signature=WOhVKU8VZ%2F3LjSoPcFhPrxbU%2FVA%3D",
+      "book_url": "https://fanqienovel.com/page/7550574422923414590",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 2,
+      "book_id": "7710133536996478014",
+      "book_name": "替兄顶包，娘竟",
+      "author": "刘川",
+      "gender": "未知",
+      "primary_tag": "历史脑洞",
+      "secondary_tags": [
+        "架空",
+        "古代",
+        "奶爸",
+        "单女主"
+      ],
+      "all_tags": [
+        "历史脑洞",
+        "架空",
+        "古代",
+        "奶爸",
+        "单女主"
+      ],
+      "official_tags": [
+        "历史脑洞",
+        "架空",
+        "古代",
+        "奶爸",
+        "单女主"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "苏砚替兄顶包，被送进“盲女”的房间。一夜过后，他竟听见养父母密谋，要把他卖去黑矿！苏砚抡起玄铁锤砸穿...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795584013",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2of0c7c4b77e57547f2c846518461c3a8b~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672388&x-signature=Qeol19PA5Y6fD02ITG3yhdZJR%2F4%3D",
+      "book_url": "https://fanqienovel.com/page/7710133536996478014",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 3,
+      "book_id": "7711154610831887422",
+      "book_name": "，卒称帝",
+      "author": "飞飞",
+      "gender": "未知",
+      "primary_tag": "历史脑洞",
+      "secondary_tags": [
+        "历史",
+        "争霸",
+        "打脸",
+        "武将"
+      ],
+      "all_tags": [
+        "历史脑洞",
+        "历史",
+        "争霸",
+        "打脸",
+        "武将"
+      ],
+      "official_tags": [
+        "历史脑洞",
+        "历史",
+        "争霸",
+        "打脸",
+        "武将"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "大乾末年，北境苦寒。十八岁的顾骁被恶霸二叔顶了兵役，塞进朔风戍堡死囚先锋营，明早便要空手去填北莽铁骑...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795583931",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2o4975863a85805c3adb8086b870e34fdd~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672389&x-signature=f1HhOlhviacBM5nKTlzzTYGei3g%3D",
+      "book_url": "https://fanqienovel.com/page/7711154610831887422",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 4,
+      "book_id": "7711239886170246206",
+      "book_name": "踪，星际备交",
+      "author": "闰米丸",
+      "gender": "未知",
+      "primary_tag": "科幻末世",
+      "secondary_tags": [
+        "异世穿越",
+        "女强",
+        "大佬",
+        "护短",
+        "未来"
+      ],
+      "all_tags": [
+        "科幻末世",
+        "异世穿越",
+        "女强",
+        "大佬",
+        "护短",
+        "未来"
+      ],
+      "official_tags": [
+        "科幻末世",
+        "异世穿越",
+        "女强",
+        "大佬",
+        "护短"
+      ],
+      "genre_tags": [
+        "科幻末世"
+      ],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [
+        "未来"
+      ],
+      "style_tags": [],
+      "inferred_tags": [
+        "科幻末世",
+        "未来"
+      ],
+      "abstract": "十八岁高考那年，周青岚意外卷入星际虫洞，在血火战场拼杀十年。当她跨越虫洞重返蓝星，却发现父母为寻找失...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795583848",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2o3635f64432f5a46fd1695652844e1362~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672390&x-signature=%2BdoM6QNXvxtzY09OOWcbTLfT57Y%3D",
+      "book_url": "https://fanqienovel.com/page/7711239886170246206",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 5,
+      "book_id": "7619960073741143102",
+      "book_name": "六零：狠跪求养",
+      "author": "阳",
+      "gender": "未知",
+      "primary_tag": "女频衍生",
+      "secondary_tags": [
+        "末世",
+        "重生"
+      ],
+      "all_tags": [
+        "女频衍生",
+        "末世",
+        "重生"
+      ],
+      "official_tags": [
+        "女频衍生",
+        "末世",
+        "重生"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795583653",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p3-novel-sign.byteimg.com/tos-cn-i-snk2bdmkp8/c203c1a86eb1e321ee15ac8b450184c183ae0d99410d2e310301d8fb425a719e~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672390&x-signature=RCwi9NJHavhwU2h4H4dVl3kj%2Bdk%3D",
+      "book_url": "https://fanqienovel.com/page/7619960073741143102",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 6,
+      "book_id": "7709151882861612057",
+      "book_name": "纸画，半夜富砸钱买",
+      "author": "逍遥",
+      "gender": "未知",
+      "primary_tag": "悬疑灵异",
+      "secondary_tags": [],
+      "all_tags": [
+        "悬疑灵异"
+      ],
+      "official_tags": [
+        "悬疑灵异"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "在雾隐街扎纸的陈晓东有条规矩，给亡人烧的纸人，两只眼得空着。立春前夜，顾家少爷带着保镖堵住铺门，拍下...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795583303",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2o893fb352c6b23ca8be672f4b8e7e0c15~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672391&x-signature=BZ6RmdB%2F07q%2FGBtQCdNmVcEWIGA%3D",
+      "book_url": "https://fanqienovel.com/page/7709151882861612057",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 7,
+      "book_id": "7710884746791767102",
+      "book_name": "七九雪：局兽语王",
+      "author": "秀财",
+      "gender": "未知",
+      "primary_tag": "都市脑洞",
+      "secondary_tags": [
+        "都市",
+        "搞笑轻松",
+        "单女主",
+        "扮猪吃虎",
+        "轻松"
+      ],
+      "all_tags": [
+        "都市脑洞",
+        "都市",
+        "搞笑轻松",
+        "单女主",
+        "扮猪吃虎",
+        "轻松"
+      ],
+      "official_tags": [
+        "都市脑洞",
+        "都市",
+        "搞笑轻松",
+        "单女主",
+        "扮猪吃虎"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [
+        "轻松"
+      ],
+      "inferred_tags": [
+        "轻松"
+      ],
+      "abstract": "【年代赶山】+【兽语】+【无憋屈】+【萌宠日常】+【发家致富】一九七九年腊月，黑心媒婆扛着十斤发霉苞...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795583085",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2oc555782d3e36b0fe94b5d65d61d1b852~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672392&x-signature=6TY6iF34sEGDQX%2BtbFwJw67VQAg%3D",
+      "book_url": "https://fanqienovel.com/page/7710884746791767102",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 8,
+      "book_id": "7579513590923660313",
+      "book_name": "墨卷遗",
+      "author": "户",
+      "gender": "未知",
+      "primary_tag": "历史古代",
+      "secondary_tags": [
+        "历史",
+        "明朝",
+        "清朝"
+      ],
+      "all_tags": [
+        "历史古代",
+        "历史",
+        "明朝",
+        "清朝"
+      ],
+      "official_tags": [
+        "历史古代",
+        "历史",
+        "明朝",
+        "清朝"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "《墨卷遗真》以崇祯年间江南科场为背景，落第书生李墨林因窘迫将考卷售予书商沈书，被编入收录失意文章的《...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582820",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2ob527d1627159efd9792d8c2b34a6fb67~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672393&x-signature=luASaTP%2FxXCsZKOR5bb4LTDgaq4%3D",
+      "book_url": "https://fanqienovel.com/page/7579513590923660313",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 9,
+      "book_id": "7561297473604422718",
+      "book_name": "熹贵妃穿糊咖炸穿娱圈",
+      "author": "半桃夭",
+      "gender": "未知",
+      "primary_tag": "女频衍生",
+      "secondary_tags": [
+        "衍生",
+        "甄嬛衍生",
+        "古穿今",
+        "系统",
+        "娱乐圈"
+      ],
+      "all_tags": [
+        "女频衍生",
+        "衍生",
+        "甄嬛衍生",
+        "古穿今",
+        "系统",
+        "娱乐圈"
+      ],
+      "official_tags": [
+        "女频衍生",
+        "衍生",
+        "甄嬛衍生",
+        "古穿今",
+        "系统"
+      ],
+      "genre_tags": [
+        "娱乐圈"
+      ],
+      "plot_tags": [
+        "系统"
+      ],
+      "character_tags": [],
+      "setting_tags": [
+        "娱乐圈"
+      ],
+      "style_tags": [],
+      "inferred_tags": [
+        "娱乐圈",
+        "系统"
+      ],
+      "abstract": "古穿今，吃瓜系统，心声爆料，娱乐圈天天有人塌房…嬛病逝于乾隆元年长春宫，弥留之际见 “漫天流萤”（系...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582819",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/9e0c91e06306cc515930c9484bc3c366~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672394&x-signature=9YHcvJBuNfmkHi%2FcDGc0Vvg5MJg%3D",
+      "book_url": "https://fanqienovel.com/page/7561297473604422718",
+      "rank_change": null,
+      "history_days": 2
+    },
+    {
+      "rank": 10,
+      "book_id": "7710821325983468568",
+      "book_name": "王：混，穿？",
+      "author": "青椒土豆饭",
+      "gender": "未知",
+      "primary_tag": "现言脑洞",
+      "secondary_tags": [
+        "大佬",
+        "女强",
+        "电竞",
+        "打脸",
+        "游戏体育",
+        "爽文"
+      ],
+      "all_tags": [
+        "现言脑洞",
+        "大佬",
+        "女强",
+        "电竞",
+        "打脸",
+        "游戏体育",
+        "爽文"
+      ],
+      "official_tags": [
+        "现言脑洞",
+        "大佬",
+        "女强",
+        "电竞",
+        "打脸"
+      ],
+      "genre_tags": [
+        "游戏体育"
+      ],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [
+        "爽文"
+      ],
+      "inferred_tags": [
+        "游戏体育",
+        "爽文"
+      ],
+      "abstract": "【无敌】【电竞】【爽文】【王者荣耀】【女频】【不圣母】苏晚被曾经亲手带出来的战队踢出局，理由是——“...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582505",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p3-novel-sign.byteimg.com/novel-pic/p2od9bd9d5bba16521782353b4fa0318903~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672394&x-signature=7v5y97lqPj0qVLNOMchMkLunXOA%3D",
+      "book_url": "https://fanqienovel.com/page/7710821325983468568",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 11,
+      "book_id": "7276986329324325950",
+      "book_name": "腹黑佬野撩",
+      "author": "",
+      "gender": "未知",
+      "primary_tag": "双男主",
+      "secondary_tags": [
+        "现代",
+        "星际",
+        "腹黑",
+        "破镜重圆"
+      ],
+      "all_tags": [
+        "双男主",
+        "现代",
+        "星际",
+        "腹黑",
+        "破镜重圆"
+      ],
+      "official_tags": [
+        "双男主",
+        "现代",
+        "星际",
+        "腹黑",
+        "破镜重圆"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "【EA+双强+腹黑+双男主+双向奔赴】完结后的番外是新故事线。桀骜难训Alpha少将×腹黑温柔Eni...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582452",
+      "word_count": ".",
+      "read_count": "读",
+      "thumb_url": "https://p3-novel-sign.byteimg.com/novel-pic/p2o5effc85994b32d9e2075d379bcaa884d~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672395&x-signature=qiHHkVmSUxCf%2FkAqzwWGYaEBakA%3D",
+      "book_url": "https://fanqienovel.com/page/7276986329324325950",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 12,
+      "book_id": "7645695017834531865",
+      "book_name": "合院，易招赘婿",
+      "author": "浮",
+      "gender": "未知",
+      "primary_tag": "女频衍生",
+      "secondary_tags": [
+        "穿越",
+        "空间",
+        "医生",
+        "四合院",
+        "系统"
+      ],
+      "all_tags": [
+        "女频衍生",
+        "穿越",
+        "空间",
+        "医生",
+        "四合院",
+        "系统"
+      ],
+      "official_tags": [
+        "女频衍生",
+        "穿越",
+        "空间",
+        "医生",
+        "四合院"
+      ],
+      "genre_tags": [],
+      "plot_tags": [
+        "系统",
+        "空间"
+      ],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [
+        "系统",
+        "空间"
+      ],
+      "abstract": "【四合院】+【年代】+【空间】+【中医】开局就被怀疑是特务，她果断碰瓷。绑定四合院系统，被她吓跑了！...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582144",
+      "word_count": ".",
+      "read_count": "读",
+      "thumb_url": "https://p3-novel-sign.byteimg.com/novel-pic/p2obca50fc35f34b37186d6f1b2e5c59a11~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672396&x-signature=TStndUwinO5Xv3tPYPOx3PDjQdc%3D",
+      "book_url": "https://fanqienovel.com/page/7645695017834531865",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 13,
+      "book_id": "7710897379519499289",
+      "book_name": "七反伤奶，专治各服诡异",
+      "author": "懒猪",
+      "gender": "未知",
+      "primary_tag": "悬疑脑洞",
+      "secondary_tags": [
+        "规则怪谈",
+        "都市异能",
+        "扮猪吃虎",
+        "系统",
+        "悬疑灵异",
+        "都市",
+        "校园"
+      ],
+      "all_tags": [
+        "悬疑脑洞",
+        "规则怪谈",
+        "都市异能",
+        "扮猪吃虎",
+        "系统",
+        "悬疑灵异",
+        "都市",
+        "校园"
+      ],
+      "official_tags": [
+        "悬疑脑洞",
+        "规则怪谈",
+        "都市异能",
+        "扮猪吃虎",
+        "系统"
+      ],
+      "genre_tags": [
+        "悬疑灵异",
+        "都市"
+      ],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [
+        "校园"
+      ],
+      "style_tags": [],
+      "inferred_tags": [
+        "悬疑灵异",
+        "都市",
+        "校园"
+      ],
+      "abstract": "【负数伤害】+【怪物主角】+【扣血成长】+【校园灵异】段枫七岁那年发现一件事：他打人，别人加血。拳头...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795582027",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2o31035b095ef1be48343b02a0372cf692~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672397&x-signature=GpzCsmcJghaIbk4Prj4jTb4R5aE%3D",
+      "book_url": "https://fanqienovel.com/page/7710897379519499289",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 14,
+      "book_id": "7623659745794067518",
+      "book_name": "阴司赏善罚恶",
+      "author": "姿飒爽厉剑锋",
+      "gender": "未知",
+      "primary_tag": "悬疑脑洞",
+      "secondary_tags": [
+        "悬疑",
+        "系统",
+        "灵异"
+      ],
+      "all_tags": [
+        "悬疑脑洞",
+        "悬疑",
+        "系统",
+        "灵异"
+      ],
+      "official_tags": [
+        "悬疑脑洞",
+        "悬疑",
+        "系统",
+        "灵异"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "田大有，一个在城中村靠收债为生的狂野小混混，信奉拳头和义气。一次为兄弟顶罪，他被迫闯入一栋废弃多年的...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795581859",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2o3a5a6f36fda0a4701e4fd46185fc4d4a~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672398&x-signature=eYld1sla4TMX6nUp%2FZsbjfhAxyM%3D",
+      "book_url": "https://fanqienovel.com/page/7623659745794067518",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 15,
+      "book_id": "7710593152809192510",
+      "book_name": "牌劝介：房",
+      "author": "崎岖杜笙",
+      "gender": "未知",
+      "primary_tag": "都市种田",
+      "secondary_tags": [
+        "都市",
+        "打脸",
+        "系统",
+        "现代",
+        "爽文"
+      ],
+      "all_tags": [
+        "都市种田",
+        "都市",
+        "打脸",
+        "系统",
+        "现代",
+        "爽文"
+      ],
+      "official_tags": [
+        "都市种田",
+        "都市",
+        "打脸"
+      ],
+      "genre_tags": [
+        "都市"
+      ],
+      "plot_tags": [
+        "系统"
+      ],
+      "character_tags": [],
+      "setting_tags": [
+        "现代"
+      ],
+      "style_tags": [
+        "爽文"
+      ],
+      "inferred_tags": [
+        "都市",
+        "系统",
+        "现代",
+        "爽文"
+      ],
+      "abstract": "【都市爽文】+【金手指】+【打脸同行】+【商战逆袭】周舟干了三年房产中介，老实巴交，签成的单子次次被...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795581738",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2o95fb5e3a89fdfaac16dbbdc598cc36fd~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672399&x-signature=P9Mu%2FYMrhBwOlC3my%2BWslD7nSR8%3D",
+      "book_url": "https://fanqienovel.com/page/7710593152809192510",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 16,
+      "book_id": "7711028236938923070",
+      "book_name": "八二赶：周刷级词",
+      "author": "冰杰",
+      "gender": "未知",
+      "primary_tag": "都市种田",
+      "secondary_tags": [
+        "无脑爽",
+        "乡村",
+        "重生",
+        "种田",
+        "单女主"
+      ],
+      "all_tags": [
+        "都市种田",
+        "无脑爽",
+        "乡村",
+        "重生",
+        "种田",
+        "单女主"
+      ],
+      "official_tags": [
+        "都市种田",
+        "无脑爽",
+        "乡村"
+      ],
+      "genre_tags": [],
+      "plot_tags": [
+        "重生",
+        "种田"
+      ],
+      "character_tags": [
+        "单女主"
+      ],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [
+        "重生",
+        "种田",
+        "单女主"
+      ],
+      "abstract": "【年代种田＋重生＋赶山打猎＋词条外挂＋单女主】好消息是重活一世，周山生了一身腱子肉，山林陷阱与刀术搏...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795581366",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p9-novel-sign.byteimg.com/novel-pic/p2o9d2fbbffbf6a5ba3b9300db86f9fabc6~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672400&x-signature=mC%2BOOhZXPBm5zRufcR8%2Bc03ke%2BM%3D",
+      "book_url": "https://fanqienovel.com/page/7711028236938923070",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 17,
+      "book_id": "7512707020764499006",
+      "book_name": "娇宠假千？！绝谅",
+      "author": "步步",
+      "gender": "未知",
+      "primary_tag": "年代",
+      "secondary_tags": [
+        "现代言情",
+        "重生",
+        "虐渣",
+        "真假千金"
+      ],
+      "all_tags": [
+        "年代",
+        "现代言情",
+        "重生",
+        "虐渣",
+        "真假千金"
+      ],
+      "official_tags": [
+        "年代",
+        "现代言情",
+        "重生",
+        "虐渣",
+        "真假千金"
+      ],
+      "genre_tags": [],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [],
+      "abstract": "上辈子，父母兄弟嫌弃李寒穷是农村长大的，觉得她会一事无成所以处处偏袒假千金。假千金学习不好她替考，假...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795581193",
+      "word_count": ".",
+      "read_count": "读",
+      "thumb_url": "https://p6-novel-sign.byteimg.com/novel-pic/p2o20a37e9631652e1eefbe82de142f7eb7~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672400&x-signature=Up3FxUYD%2BLwhgoU28eZ%2BLwpOwao%3D",
+      "book_url": "https://fanqienovel.com/page/7512707020764499006",
+      "rank_change": "new",
+      "history_days": 1
+    },
+    {
+      "rank": 18,
+      "book_id": "7660740303065730110",
+      "book_name": "游戏求，",
+      "author": "尾巴狼兔",
+      "gender": "未知",
+      "primary_tag": "游戏体育",
+      "secondary_tags": [
+        "惊悚游戏",
+        "系统",
+        "魂穿",
+        "穿越"
+      ],
+      "all_tags": [
+        "游戏体育",
+        "惊悚游戏",
+        "系统",
+        "魂穿",
+        "穿越"
+      ],
+      "official_tags": [
+        "游戏体育",
+        "惊悚游戏",
+        "系统",
+        "魂穿",
+        "穿越"
+      ],
+      "genre_tags": [
+        "游戏体育"
+      ],
+      "plot_tags": [],
+      "character_tags": [],
+      "setting_tags": [],
+      "style_tags": [],
+      "inferred_tags": [
+        "游戏体育"
+      ],
+      "abstract": "我叫路晚，我原来的世界暴发了一种病毒，蔓延速度极快。各国初期都拼尽全力防控，最终还是没能控制住疫情。...",
+      "status": "完结",
+      "creation_status": 0,
+      "completion_type": "基准快照",
+      "first_seen_date": "2026-11-25",
+      "completed_detected_date": null,
+      "last_chapter_time": "1795581024",
+      "word_count": ".",
+      "read_count": "未读",
+      "thumb_url": "https://p3-novel-sign.byteimg.com/novel-pic/p2o40b8da515ecbdfd3454ca60970667b54~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1795672402&x-signature=V%2FP4j6tLgBsmnDYJM5YVg7EHe%2B4%3D",
+      "book_url": "https://fanqienovel.com/page/7660740303065730110",
+      "rank_change": null,
+      "history_days": 2
+    }
+  ]
+}
